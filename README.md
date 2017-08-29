@@ -2,7 +2,7 @@
 ## Coding Manual for Egyptian Hieroglyphic in Unicode
 
 UMdC (Unicode MdC) aims to provides guidelines for encoding Egyptian Hieroglyphic and related scripts
-In Unicode using plain text with lightweight mark-up. 
+In Unicode using plain text with optional lightweight mark-up. 
 
 This GitHub project is the central point for development of UMdC and associated resources. Features of UMdC are still
 in a discussion phase so everything here should be regarded as preliminary and subject to change.
