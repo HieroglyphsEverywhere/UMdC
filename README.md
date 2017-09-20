@@ -18,8 +18,13 @@ As with the original MdC system, UMdC data files (.umdc) can be viewed and edite
 (such as Windows Notepad) and the HTML &lt;textarea>&lt;/textarea> control. Specialist software applications can
 be adapted or developed to provide a simpler workflow or enable additional techniques for working with the material.
 
+Also see [UMdC overview](docs/UMdCoverview.pdf) [pdf].
+
+A UMdC-compatible hieroglyphic font **Aaron UMdC Alpha** (relative to the current draft) can be downloaded from the [Hieroglyphs Everywhere Fonts](https://github.com/HieroglyphsEverywhere/Fonts) project.
+
+
 For news and information on Ancient Egyptian in Unicode see https://hieroglyphseverywhere.blogspot.co.uk/.
 
 Bob Richmond
 
-2017-August-10
+2017-09-20
