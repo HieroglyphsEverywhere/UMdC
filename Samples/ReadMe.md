@@ -16,7 +16,7 @@ The Story of the Shipwrecked Sailor
 
 See comments at the start of each file.
 
-Some features of the enodings will make more sense when documented!
+Some features of the enodings will make more sense when further documented!
 
 
 
